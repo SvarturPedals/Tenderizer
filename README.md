@@ -22,6 +22,8 @@ Goals and Objectives of this project:
 Order Prototype Boards by end of September 2026/Early October 2026
 Build prototype boards, troubleshoot if needed, produce final version of boards for release January 1, 2027
 
+File schematic.pdf in repo is original EAR schematic
+
 Original Assembly document for E.A.R. Gristleizer Eurorack PCB
 
 https://drive.google.com/file/d/1BdbNv-EVg8JeGNcPxPTs-spx8XBo5OCM/view?usp=sharing
