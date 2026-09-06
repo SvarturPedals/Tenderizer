@@ -1,4 +1,4 @@
-Tenderizer is a recreation of the Gristleizer Eurorack Module once produced by Electronic Audio Research.
+Tenderizer is a recreation of the Gristleizer Eurorack Module once produced by Endangered Audio Research.
 
 All Gerber production files, all work product, will be uploaded to Github and freely available to anyone who wishes free of charge once complete and validated as working.
 
