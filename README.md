@@ -2,6 +2,8 @@ Tenderizer is a recreation of the Gristleizer Eurorack Module once produced by E
 
 All Gerber production files, all work product, will be uploaded to Github and freely available to anyone who wishes free of charge once complete and validated as working.
 
+As of 9-6-26, this project is not yet proven as I have not yet ordered the first batch of prototype boards.
+
 I plan to offer board sets at minimal cost for any DIYer who wants them.  
 At cost plus 10-15% plus shipping is my goal for boardsets.
 
