@@ -32,7 +32,6 @@ Ordered first prototype boards. Uploaded Gerber files to repository
 
 
 Next Steps:
-Generate BOM
 Recieve/build/troubleshoot (if needed) prototype boards (ordered 9-8-26)
 Generate Panel layout and produce gerber files
 
