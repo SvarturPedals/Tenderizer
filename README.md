@@ -30,6 +30,12 @@ Markdown file format
 
 HTML format (https://html-preview.github.io/?url=https://github.com/SvarturPedals/Tenderizer/blob/main/Tenderizer%20HTML%20BOM%20File)
 
+
+
+
+
+
+
 Current back of the envelope math for future Board Sets, Complete Kits, and a limited number of completed and tested modules
 
 Board Sets : $25 USD
