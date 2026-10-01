@@ -21,9 +21,13 @@ Any issues found will be addressed in V3 Final version.
 <img width="341" height="399" alt="PXL_20260930_220714235~3" src="https://github.com/user-attachments/assets/28a6d551-7408-49c3-907f-16df9eff7c8e" /><img width="326" height="384" alt="PXL_20260930_211127180~2" src="https://github.com/user-attachments/assets/48af48a6-6aec-410a-8c54-a611f1202c2c" />
 
 10-1-26:
+
 Updated Repository with BOM files. 
+
 Excel and Open Office Calc files are identical
+
 Markdown file format
+
 HTML format (https://html-preview.github.io/?url=https://github.com/SvarturPedals/Tenderizer/blob/main/Tenderizer%20HTML%20BOM%20File)
 
 Current back of the envelope math for future Board Sets, Complete Kits, and a limited number of completed and tested modules
