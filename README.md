@@ -36,7 +36,7 @@ Potential Launch date:
 
 January 1, 2027
 
-Once launched, all PCB fabrication files will be uploaded here along with a built documentation and other project specific notes.
+Once launched, all PCB fabrication files will be uploaded here along with a full build documentation and other project specific notes.
 
 Original Assembly document for E.A.R. Gristleizer Eurorack PCB
 
