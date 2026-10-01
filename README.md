@@ -38,7 +38,7 @@ Current back of the envelope math for future Board Sets, Complete Kits, and a li
 
 Board Sets : $25 USD
 
-Complete kits : $ $85 USD
+Complete kits : $85 USD
 
 Built and Tested units with special front panels : $225 USD
 
