@@ -12,11 +12,19 @@ https://www.youtube.com/watch?v=fW0amLK4cTc
 
 V2 prototypes ordered on 9-22-26 which included a prototype PCB material front panel.
 
+V2 prototypes arrived on 9-29-26, Built and tested first unit with good results. 
+
+Will distribute 3 board sets to select people to build and test during the months of October, November and December of 2026. 
+
+Any issues found will be addressed in V3 Final version.
+
+
+
 Current back of the envelope math for future Board Sets, Complete Kits, and a limited number of completed and tested modules
 
 Board Sets : $25 USD
 
-Complete kits : $ $80 USD
+Complete kits : $ $85 USD
 
 Built and Tested units with special front panels : $225 USD
 
