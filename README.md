@@ -1,5 +1,7 @@
 Tenderizer is a recreation of the Gristleizer Eurorack Module once produced by Endangered Audio Research.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 V1 prototype boards were ordered on 9-9-26. 
 
 Tests were positive, but revealed a couple of small errors.
@@ -49,6 +51,8 @@ Potential Launch date:
 January 1, 2027
 
 Once launched, all PCB fabrication files will be uploaded here along with a full build documentation and other project specific notes.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 Original Assembly document for E.A.R. Gristleizer Eurorack PCB
 
