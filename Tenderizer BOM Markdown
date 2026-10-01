@@ -19,18 +19,18 @@
 | R2,R12                             | 2        | 1M      | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
 |                                    |          |         |                                                                                          |
 | Capacitors                         |          |         |                                                                                          |
-| C8                                 | 1        | 2.2nf   | Polyester Box Film Thickness 2.5mm (minimum 25v DC Voltage Rating)                       |
-| C7,C14                             | 2        | 10nf    | Polyester Box Film Thickness 2.5mm (minimum 25v DC Voltage Rating)                       |
-| C2,C3                              | 2        | 100nf   | Polyester Box Film Thickness 2.5mm (minimum 25v DC Voltage Rating)                       |
-| C1                                 | 1        | 470nf   | Polyester Box Film Thickness 3.5mm (minimum 25v DC Voltage Rating)                       |
+| C8                                 | 1        | 2.2nf   | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating) |
+| C7,C14                             | 2        | 10nf    | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating)                  |
+| C2,C3                              | 2        | 100nf   | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating)                  |
+| C1                                 | 1        | 470nf   | Polyester Box Film Body Thickness 3.5mm (minimum 25v DC Voltage Rating)                  |
 | C4                                 | 1        | 1uf     | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                       |
 | C5,C9                              | 2        | 10uf    | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                       |
-| C11,C12                            | 2        | 100uf   | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                       |
+| C11,C12                            | 2        | 100uf   | Aluminum Electrolytic 6.3mm diameter (minimum 25v DC Voltage Rating)                     |
 |                                    |          |         |                                                                                          |
 | Diodes                             |          |         |                                                                                          |
-| D2                                 | 1        | 1N4738  | Zener Diode                                                                              |
+| D2                                 | 1        | 1N4738  | Zener Diode                                                                      |
 | D3,D4                              | 2        | 1N4148  | Switching Signal Diode                                                                   |
-| D6,D7                              | 2        | 1N5817  | Diode Schottky                                                                           |
+| D6,D7                              | 2        | 1N5817  | Diode Schottky                                                                    |
 | D9                                 | 1        | 5mm LED | Red Diffused or color of your choice                                                     |
 |                                    |          |         |                                                                                          |
 | Transistors                        |          |         |                                                                                          |
@@ -52,3 +52,4 @@
 | 2x5 Eurorack Power Connector       | 1        |         |                                                                                          |
 | 8 Pin IC Socket                    | 3        |         |                                                                                          |
 | 3 Pin Transistor Socket (Optional) | 3        |         |                                                                                          |
+
