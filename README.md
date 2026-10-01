@@ -18,7 +18,8 @@ Will distribute 3 board sets to select people to build and test during the month
 
 Any issues found will be addressed in V3 Final version.
 
-
+<img width="2731" height="3195" alt="PXL_20260930_220714235~3" src="https://github.com/user-attachments/assets/28a6d551-7408-49c3-907f-16df9eff7c8e" />
+<img width="2613" height="3072" alt="PXL_20260930_211127180~2" src="https://github.com/user-attachments/assets/48af48a6-6aec-410a-8c54-a611f1202c2c" />
 
 Current back of the envelope math for future Board Sets, Complete Kits, and a limited number of completed and tested modules
 
