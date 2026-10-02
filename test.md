@@ -19,10 +19,10 @@
 | R2,R12                             | 2        | 1M      | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                |
 |                                    |          |         |                                                                                        |
 | Capacitors                         |          |         |                                                                                        |
-| C8                                 | 1        | 2.2nf   | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating)                |
-| C7,C14                             | 2        | 10nf    | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating)                |
-| C2,C3                              | 2        | 100nf   | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating)                |
-| C1                                 | 1        | 470nf   | Polyester Box Film Body Thickness 3.5mm (minimum 25v DC Voltage Rating)                |
+| C8                                 | 1        | 2.2nf   | Polyester Box Film Body 2.5mm (minimum 25v DC Voltage Rating)                          |
+| C7,C14                             | 2        | 10nf    | Polyester Box Film Body 2.5mm (minimum 25v DC Voltage Rating)                          |
+| C2,C3                              | 2        | 100nf   | Polyester Box Film Body 2.5mm (minimum 25v DC Voltage Rating)                          |
+| C1                                 | 1        | 470nf   | Polyester Box Film Body 3.5mm (minimum 25v DC Voltage Rating)                          |
 | C4                                 | 1        | 1uf     | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                     |
 | C5,C9                              | 2        | 10uf    | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                     |
 | C11,C12                            | 2        | 100uf   | Aluminum Electrolytic 6.3mm diameter (minimum 25v DC Voltage Rating)                   |
@@ -34,8 +34,8 @@
 | D9                                 | 1        | 5mm LED | Red Diffused or color of your choice                                                   |
 |                                    |          |         |                                                                                        |
 | Transistors                        |          |         |                                                                                        |
-| Q1                                 | 1        | BF256   | TO-92 Package  Board sets and Kits ordered from Svartur Effects will include this part |
-| Q3,Q4                              | 2        | 2N3906  | TO-92 Package                                                                          |
+| Q1                                 | 1        | BF256   | Board sets and Kits ordered from Svartur Effects will include this part                |
+| Q3,Q4                              | 2        | 2N3906  |                                                                                        |
 |                                    |          |         |                                                                                        |
 | Integrated Circuits                |          |         |                                                                                        |
 | U1,U2,U3                           | 3        | RC4558  | DIP Package                                                                            |
