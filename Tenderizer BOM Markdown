@@ -1,6 +1,54 @@
-#BOM
-|  Description  |  Value	  |  Quantity  |	
-| --- | --- | --- | --- |
-
-|  Resistors  |			
-|  Resistor 1/4W  |  22R  |  1  |  R4  |                                                                                     
+| Components                         | Quantity | Value   | Notes                                                                                    |
+|------------------------------------|----------|---------|------------------------------------------------------------------------------------------|
+| Resistors                          |          |         |                                                                                          |
+| R4                                 | 1        | 22R     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R6,R11,R18,R32,R35                 | 5        | 1K      | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R36                                | 1        | 2.2K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R8                                 | 1        | 4.7K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R9,R14,R19,R24,R27,R31             | 6        | 10K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R13,R25                            | 2        | 18K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R7                                 | 1        | 22K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R10,R26                            | 2        | 27K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R16,R28                            | 2        | 33K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R5,R34,R39                         | 3        | 47K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R3,R33                             | 2        | 56K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R22                                | 1        | 82K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R15,R17,R20,R21                    | 4        | 100K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R29                                | 1        | 180K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R30                                | 1        | 470K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+| R2,R12                             | 2        | 1M      | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
+|                                    |          |         |                                                                                          |
+| Capacitors                         |          |         |                                                                                          |
+| C8                                 | 1        | 2.2nf   | Polyester Box Film Thickness 2.5mm (minimum 25v DC Voltage Rating)                       |
+| C7,C14                             | 2        | 10nf    | Polyester Box Film Thickness 2.5mm (minimum 25v DC Voltage Rating)                       |
+| C2,C3                              | 2        | 100nf   | Polyester Box Film Thickness 2.5mm (minimum 25v DC Voltage Rating)                       |
+| C1                                 | 1        | 470nf   | Polyester Box Film Thickness 3.5mm (minimum 25v DC Voltage Rating)                       |
+| C4                                 | 1        | 1uf     | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                       |
+| C5,C9                              | 2        | 10uf    | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                       |
+| C11,C12                            | 2        | 100uf   | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                       |
+|                                    |          |         |                                                                                          |
+| Diodes                             |          |         |                                                                                          |
+| D2                                 | 1        | 1N4738  | Zener Diode                                                                              |
+| D3,D4                              | 2        | 1N4148  | Switching Signal Diode                                                                   |
+| D6,D7                              | 2        | 1N5817  | Diode Schottky                                                                           |
+| D9                                 | 1        | 5mm LED | Red Diffused or color of your choice                                                     |
+|                                    |          |         |                                                                                          |
+| Transistors                        |          |         |                                                                                          |
+| Q1                                 | 1        | BF256   | TO-92 Package  (Board sets ordered from Svartur Effects will include this part)          |
+| Q3,Q4                              | 2        | 2N3906  | TO-92 Package                                                                            |
+|                                    |          |         |                                                                                          |
+| Integrated Circuits                |          |         |                                                                                          |
+| U1,U2,U3                           | 3        | RC4558  | DIP Package                                                                              |
+|                                    |          |         |                                                                                          |
+| Other                              |          |         |                                                                                          |
+| DPDT On/On toggle switch           | 2        |         |                                                                                          |
+| Bias, Depth, Level, Gain, Filter   | 5        | B100k   |                                                                                          |
+| Frequency                          | 1        | A10k    |                                                                                          |
+| 3.5mm jacks                        | 10       |         | Thonk PJ301-M Style                                                                      |
+| 1x16 2.54mm Male Pin Connector     | 1        |         |                                                                                          |
+| 1x16 2.54mm Female Pin Connector   | 1        |         |                                                                                          |
+| 1x8 2.54mm Male Pin Connector      | 1        |         |                                                                                          |
+| 1x8 Female Pin Connector           | 1        |         |                                                                                          |
+| 2x5 Eurorack Power Connector       | 1        |         |                                                                                          |
+| 8 Pin IC Socket                    | 3        |         |                                                                                          |
+| 3 Pin Transistor Socket (Optional) | 3        |         |                                                                                          |
