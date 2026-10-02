@@ -1,55 +1,57 @@
-| Components                         | Quantity | Value   | Notes                                                                                    |
-|------------------------------------|----------|---------|------------------------------------------------------------------------------------------|
-| Resistors                          |          |         |                                                                                          |
-| R4                                 | 1        | 22R     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R6,R11,R18,R32,R35                 | 5        | 1K      | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R36                                | 1        | 2.2K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R8                                 | 1        | 4.7K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R9,R14,R19,R24,R27,R31             | 6        | 10K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R13,R25                            | 2        | 18K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R7                                 | 1        | 22K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R10,R26                            | 2        | 27K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R16,R28                            | 2        | 33K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R5,R34,R39                         | 3        | 47K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R3,R33                             | 2        | 56K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R22                                | 1        | 82K     | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R15,R17,R20,R21                    | 4        | 100K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R29                                | 1        | 180K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R30                                | 1        | 470K    | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-| R2,R12                             | 2        | 1M      | 1/4w Metal Film Resistor 1% 2.5mmx6.8mm                                                  |
-|                                    |          |         |                                                                                          |
-| Capacitors                         |          |         |                                                                                          |
-| C8                                 | 1        | 2.2nf   | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating) |
-| C7,C14                             | 2        | 10nf    | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating)                  |
-| C2,C3                              | 2        | 100nf   | Polyester Box Film Body Thickness 2.5mm (minimum 25v DC Voltage Rating)                  |
-| C1                                 | 1        | 470nf   | Polyester Box Film Body Thickness 3.5mm (minimum 25v DC Voltage Rating)                  |
-| C4                                 | 1        | 1uf     | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                       |
-| C5,C9                              | 2        | 10uf    | Aluminum Electrolytic 5mm diameter (minimum 25v DC Voltage Rating)                       |
-| C11,C12                            | 2        | 100uf   | Aluminum Electrolytic 6.3mm diameter (minimum 25v DC Voltage Rating)                     |
-|                                    |          |         |                                                                                          |
-| Diodes                             |          |         |                                                                                          |
-| D2                                 | 1        | 1N4738  | Zener Diode                                                                      |
-| D3,D4                              | 2        | 1N4148  | Switching Signal Diode                                                                   |
-| D6,D7                              | 2        | 1N5817  | Diode Schottky                                                                    |
-| D9                                 | 1        | 5mm LED | Red Diffused or color of your choice                                                     |
-|                                    |          |         |                                                                                          |
-| Transistors                        |          |         |                                                                                          |
-| Q1                                 | 1        | BF256   | TO-92 Package  (Board sets ordered from Svartur Effects will include this part)          |
-| Q3,Q4                              | 2        | 2N3906  | TO-92 Package                                                                            |
-|                                    |          |         |                                                                                          |
-| Integrated Circuits                |          |         |                                                                                          |
-| U1,U2,U3                           | 3        | RC4558  | DIP Package                                                                              |
-|                                    |          |         |                                                                                          |
-| Other                              |          |         |                                                                                          |
-| DPDT On/On toggle switch           | 2        |         |                                                                                          |
-| Bias, Depth, Level, Gain, Filter   | 5        | B100k   |                                                                                          |
-| Frequency                          | 1        | A10k    |                                                                                          |
-| 3.5mm jacks                        | 10       |         | Thonk PJ301-M Style                                                                      |
-| 1x16 2.54mm Male Pin Connector     | 1        |         |                                                                                          |
-| 1x16 2.54mm Female Pin Connector   | 1        |         |                                                                                          |
-| 1x8 2.54mm Male Pin Connector      | 1        |         |                                                                                          |
-| 1x8 Female Pin Connector           | 1        |         |                                                                                          |
-| 2x5 Eurorack Power Connector       | 1        |         |                                                                                          |
-| 8 Pin IC Socket                    | 3        |         |                                                                                          |
-| 3 Pin Transistor Socket (Optional) | 3        |         |                                                                                          |
+                                                                                     |
 
+BOM
+Description	Value	Quantity	
+Resistors			
+Resistor 1/4W	22R	1	R4
+Resistor 1/4W	1K	5	R6,R11,R18,R32,R35 
+Resistor 1/4W	2.2K	1	R36
+Resistor 1/4W	4.7K	1	R8
+Resistor 1/4W	10K	6	R9,R14,R19,R24,R27,R3
+Resistor 1/4W	18K	2	R13,R25
+Resistor 1/4W	22K	1	R7
+Resistor 1/4W	27K	2	R10,R26
+Resistor 1/4W	33K	2	R16,R28
+Resistor 1/4W	47K	3	R5,R34,R39
+Resistor 1/4W	56K	2	R3,R33
+Resistor 1/4W	82K	1	R22 
+Resistor 1/4W	100K	4	R15,R17,R20,R21
+Resistor 1/4W	180K	1	R29
+Resistor 1/4W	470K	1	R30
+Resistor 1/4W	1M	2	R2,R12
+			
+Capacitors			
+Capacitor Box Film	2.2nf	1	C8 
+Capacitor Box Film	10nf	2	C7,C14
+Capacitor Box Film	100nf	2	C2,C3
+Capacitor Box Film	470nf	1	C1
+Capacitor Electrolytic	1uf	1	C4
+Capacitor Electrolytic	10uf	2	C5,C9
+Capacitor Electrolytic	100uf	2	C11,C12
+			
+Diodes			
+Diode	1N4738	1	D2
+Diode	1N4148	2	D3,D4
+Diode	1N5817	2	D6,D7 
+LED	5mm Round, any color	1	D9 (Dim or Diffuse Lens recommended)
+			
+Integrated Circuits			
+Op Amp	RC4558	3	U1,U2,U3
+			
+Semiconductors			
+Transistor (JFET)	BF256	1	Q1 (Supplied with Board Set or Kit)
+Transistor (PNP BJT)	2N3906	2	Q3,Q4
+			
+Other			
+Potentiometer	B100K	5	
+Potentiometer	A10k	1	
+Toggle Switch	DPDT ON-ON	2	Mini-Toggle Switch
+Jacks	3.5mm Mono	10	Thonk PJ301-M Style
+Header	1x16 2.54mm Male Pin Connector	1	
+Header	1x16 2.54mm Female Pin Connector	1	
+Header	1x8 2.54mm Male Pin Connector	1	
+Header	1x8 Female Pin Connector	1	
+Connector	2x5 Eurorack Power Connector	1	
+Socket	8 Pin IC Socket	1	Optional But Recommended
+Socket	3 Pin Transistor Socket	3	Optional But Recommended
+Knobs		6	13-15mm diameter 
