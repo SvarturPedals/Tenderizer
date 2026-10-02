@@ -28,7 +28,7 @@ Updated Repository with BOM files.
 
 Excel and Open Office Calc files are identical
 
-Markdown file format
+Markdown Table format
 
 HTML format (https://html-preview.github.io/?url=https://github.com/SvarturPedals/Tenderizer/blob/main/Tenderizer%20HTML%20BOM%20File)
 
