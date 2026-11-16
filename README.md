@@ -32,6 +32,11 @@ Markdown Table format
 
 HTML format (https://html-preview.github.io/?url=https://github.com/SvarturPedals/Tenderizer/blob/main/Tenderizer%20HTML%20BOM%20File)
 
+11-16-26
+V2 Prototype Board Gerber Files uploaded. 
+Do not utilize these gerbers, there are a couple minor issues that will be fixed on the final V3 versions upcoming.
+If you want to use them, contact me for instructions on a trace cut and bodge wire repair
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 Current back of the envelope math for future Board Sets, Complete Kits, and a limited number of completed and tested modules
